@@ -1,5 +1,5 @@
 # Charlie Devine's Website
-### Welcome to my website! This website displays some projects I have been working on in my time as a CS student at Notre Dame.
+### Welcome to my website!
 
 
 
@@ -10,11 +10,9 @@ I am a current sophomore at the University of Notre Dame studying Computer Scien
 ## Projects
 
 ### Block.io
-
 #### + [Block.io](project.c)
 
 ### Crossword
-
 #### + [Crossword Header](crossfunc.h)
 #### + [Crossword Functions](crossfunc.c)
 #### + [Crossword Main](crossword.c)
