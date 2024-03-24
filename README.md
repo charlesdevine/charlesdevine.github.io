@@ -1,3 +1,4 @@
+# Charlie Devine's Website
 ### Welcome to my website! This website displays some projects I have been working on in my time as a CS student at Notre Dame.
 
 
