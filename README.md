@@ -20,3 +20,5 @@ Currently, I am enrolled in Data Structures, Systems Programming, and Logic Desi
 You can reach out to me using email or LinkedIn!
 cdevine5@nd.edu
 [LinkedIn](https://www.linkedin.com/in/charles-devine3/)
+
+[Notre Dame CSE](44iQpsKe_400x400.jpg)
