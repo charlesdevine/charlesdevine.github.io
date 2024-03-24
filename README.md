@@ -16,9 +16,11 @@ I am a current sophomore at the University of Notre Dame studying Computer Scien
 #### + [Crossword Functions](crossfunc.c)
 #### + [Crossword Main](crossword.c)
 
+
+
 #### Currently, I am enrolled in Data Structures, Systems Programming, and Logic Design. I have already taken Fundamentals of Computing and Discrete Mathematics.
 #### You can reach out to me using email or LinkedIn!
 #### cdevine5@nd.edu
-#### [LinkedIn](https://www.linkedin.com/in/charles-devine3/)
+#### + [LinkedIn](https://www.linkedin.com/in/charles-devine3/)
 
 ![Notre Dame CSE](44iQpsKe_400x400.jpg)
