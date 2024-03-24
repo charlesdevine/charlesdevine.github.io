@@ -1,6 +1,5 @@
 # Charlie Devine's Website
-### Welcome to my website!
-
+Welcome to my website!
 
 
 ## About
