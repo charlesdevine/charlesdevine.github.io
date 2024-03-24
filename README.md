@@ -1,11 +1,8 @@
 # Charlie Devine's Personal Website
 
-Welcome to my website! This website displays some projects I have been working on in my time as a CS student at Notre Dame
+Welcome to my website! This website displays some projects I have been working on in my time as a CS student at Notre Dame.
 
-## Live Website
-
-[Link to your live website](https://charlesdevine.github.io)
 
 ## About
 
-This website serves as a portfolio and personal blog where I share my thoughts, projects, and experiences.
+I am a current sophomore at the University of Notre Dame studying Computer Science and Engineering and Engineering Corporate Practice. I am originally from New Egypt, New Jersey, a small town about 30 minutes outside of Princeton. This website displays some projects that I have completed and that I am currently working on, so I hope you enjoy!
